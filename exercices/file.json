@@ -1,0 +1,15 @@
+{
+    "MENU PRINCIPAL": [
+        "1.Ajouter ue chanson",
+        "2.Voir les chansons",
+        "3.Editer une chanson",
+        "4.Supprimer une chanson",
+        "0.Quitter le programme"
+    ],
+    "AJOUTER UNE CHANSON3": [
+        "Titre de la chanson: ",
+        "Artiste: ",
+        "Categorie de la chanson: ",
+        "Score de la chanson (5)"
+    ]
+}

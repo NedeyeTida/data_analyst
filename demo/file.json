@@ -1,0 +1,12 @@
+{
+    "people": [
+        "Toto",
+        "Tata",
+        "Titi"
+    ],
+    "object": [
+        "Ballon",
+        "Ordinateur",
+        "Voiture"
+    ]
+}

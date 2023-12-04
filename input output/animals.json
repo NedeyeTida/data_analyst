@@ -1,0 +1,202 @@
+[
+  {
+    "common_name": "Bison, american",
+    "scientific_name": "Bison bison"
+  },
+  {
+    "common_name": "Duck, blue",
+    "scientific_name": "Hymenolaimus malacorhynchus"
+  },
+  {
+    "common_name": "Malleefowl",
+    "scientific_name": "Leipoa ocellata"
+  },
+  {
+    "common_name": "Asian elephant",
+    "scientific_name": "Elephas maximus bengalensis"
+  },
+  {
+    "common_name": "White-tailed jackrabbit",
+    "scientific_name": "Lepus townsendii"
+  },
+  {
+    "common_name": "Guerza",
+    "scientific_name": "Colobus guerza"
+  },
+  {
+    "common_name": "Dove, little brown",
+    "scientific_name": "Streptopelia senegalensis"
+  },
+  {
+    "common_name": "Hornbill, southern ground",
+    "scientific_name": "Bucorvus leadbeateri"
+  },
+  {
+    "common_name": "Snake, western patch-nosed",
+    "scientific_name": "Salvadora hexalepis"
+  },
+  {
+    "common_name": "Dove, rock",
+    "scientific_name": "Columba livia"
+  },
+  {
+    "common_name": "Pale-throated three-toed sloth",
+    "scientific_name": "Bradypus tridactylus"
+  },
+  {
+    "common_name": "Galapagos tortoise",
+    "scientific_name": "Geochelone elephantopus"
+  },
+  {
+    "common_name": "Black rhinoceros",
+    "scientific_name": "Diceros bicornis"
+  },
+  {
+    "common_name": "Dusky rattlesnake",
+    "scientific_name": "Crotalus triseriatus"
+  },
+  {
+    "common_name": "Blue-tongued skink",
+    "scientific_name": "Tiliqua scincoides"
+  },
+  {
+    "common_name": "South African hedgehog",
+    "scientific_name": "Erinaceus frontalis"
+  },
+  {
+    "common_name": "Bird, black-throated butcher",
+    "scientific_name": "Cracticus nigroagularis"
+  },
+  {
+    "common_name": "Lorikeet, scaly-breasted",
+    "scientific_name": "Trichoglossus chlorolepidotus"
+  },
+  {
+    "common_name": "Snake, eastern indigo",
+    "scientific_name": "Drymarchon corias couperi"
+  },
+  {
+    "common_name": "Wallaby, dama",
+    "scientific_name": "Macropus eugenii"
+  },
+  {
+    "common_name": "Swainson's francolin",
+    "scientific_name": "Francolinus swainsonii"
+  },
+  {
+    "common_name": "Antelope, roan",
+    "scientific_name": "Hippotragus equinus"
+  },
+  {
+    "common_name": "Tarantula, salmon pink bird eater",
+    "scientific_name": "Lasiodora parahybana"
+  },
+  {
+    "common_name": "Black-cheeked waxbill",
+    "scientific_name": "Estrilda erythronotos"
+  },
+  {
+    "common_name": "Wallaby, river",
+    "scientific_name": "Macropus agilis"
+  },
+  {
+    "common_name": "Duck, mountain",
+    "scientific_name": "Hymenolaimus malacorhynchus"
+  },
+  {
+    "common_name": "Bear, american black",
+    "scientific_name": "Ursus americanus"
+  },
+  {
+    "common_name": "Whale, killer",
+    "scientific_name": "Orcinus orca"
+  },
+  {
+    "common_name": "Skua, great",
+    "scientific_name": "Catharacta skua"
+  },
+  {
+    "common_name": "Oystercatcher, blackish",
+    "scientific_name": "Haematopus ater"
+  },
+  {
+    "common_name": "Trumpeter swan",
+    "scientific_name": "Cygnus buccinator"
+  },
+  {
+    "common_name": "Ovenbird",
+    "scientific_name": "Seiurus aurocapillus"
+  },
+  {
+    "common_name": "Brocket, brown",
+    "scientific_name": "Mazama gouazoubira"
+  },
+  {
+    "common_name": "Tarantula",
+    "scientific_name": "Lasiodora parahybana"
+  },
+  {
+    "common_name": "Savannah deer",
+    "scientific_name": "Mazama gouazoubira"
+  },
+  {
+    "common_name": "Yellow-crowned night heron",
+    "scientific_name": "Nyctanassa violacea"
+  },
+  {
+    "common_name": "Striped hyena",
+    "scientific_name": "Hyaena hyaena"
+  },
+  {
+    "common_name": "Lesser masked weaver",
+    "scientific_name": "Ploceus intermedius"
+  },
+  {
+    "common_name": "Bandicoot, long-nosed",
+    "scientific_name": "Perameles nasuta"
+  },
+  {
+    "common_name": "Drongo, fork-tailed",
+    "scientific_name": "Dicrurus adsimilis"
+  },
+  {
+    "common_name": "Emerald-spotted wood dove",
+    "scientific_name": "Turtur chalcospilos"
+  },
+  {
+    "common_name": "Egret, cattle",
+    "scientific_name": "Bubulcus ibis"
+  },
+  {
+    "common_name": "Salmon, sockeye",
+    "scientific_name": "Oncorhynchus nerka"
+  },
+  {
+    "common_name": "Fox, north american red",
+    "scientific_name": "Vulpes vulpes"
+  },
+  {
+    "common_name": "Common wombat",
+    "scientific_name": "Vombatus ursinus"
+  },
+  {
+    "common_name": "Kingfisher, white-throated",
+    "scientific_name": "Halcyon smyrnesis"
+  },
+  {
+    "common_name": "Little brown bat",
+    "scientific_name": "Myotis lucifugus"
+  },
+  {
+    "common_name": "Macaque, pig-tailed",
+    "scientific_name": "Macaca nemestrina"
+  },
+  {
+    "common_name": "Canadian tiger swallowtail butterfly",
+    "scientific_name": "Papilio canadensis"
+  },
+  {
+    "common_name": "Mississippi alligator",
+    "scientific_name": "Alligator mississippiensis"
+  }
+]
